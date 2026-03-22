@@ -13,7 +13,7 @@ Create a professional, user-friendly README.md that explains the multi-agent orc
         2. Create "What is GitHub Copilot Orchestra?" section explaining the problem it solves
         3. Add "Key Features" list highlighting multi-agent workflow, TDD enforcement, quality gates, and documentation trail
         4. Create "Prerequisites" section listing VS Code Insiders, GitHub Copilot subscription, and Git
-        5. Add brief architecture overview explaining Conductor and three subagent roles
+        5. Add brief architecture overview explaining Orchestrator and three subagent roles
 
 2. **Phase 2: Installation and Setup Instructions**
     - **Objective:** Provide clear step-by-step setup instructions for custom chat modes in VS Code Insiders
@@ -23,7 +23,7 @@ Create a professional, user-friendly README.md that explains the multi-agent orc
         1. Create "Installation" section with steps to clone/download the repository
         2. Add "Setup Custom Chat Modes" section with VS Code Insiders-specific instructions
         3. Document where to place .agent.md files in workspace
-        4. Explain how to access the Conductor agent in GitHub Copilot Chat
+        4. Explain how to access the Orchestrator agent in GitHub Copilot Chat
         5. Add "Repository Structure" section documenting each .agent.md file's purpose
         6. Include note about creating plans/ directory for generated documentation
         7. Emphasize Git version control requirement

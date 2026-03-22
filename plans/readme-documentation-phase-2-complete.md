@@ -19,7 +19,7 @@ docs: Add installation and setup instructions to README
 
 - Add installation section with clone/download options
 - Document custom chat mode setup for VS Code Insiders
-- Explain how to access Conductor agent via dropdown and @-mention
+- Explain how to access Orchestrator agent via dropdown and @-mention
 - Add repository structure section documenting all agent files
 - Emphasize git repository requirement throughout
 - Include plans directory creation instructions

@@ -19,7 +19,7 @@ docs: Add introduction and prerequisites to README
 
 - Add compelling tagline and value proposition
 - Document key features including multi-agent workflow and TDD enforcement
-- Add architecture overview explaining Conductor and three subagent roles
+- Add architecture overview explaining Orchestrator and three subagent roles
 - List prerequisites (VS Code Insiders, GitHub Copilot, Git)
 - Establish professional documentation foundation
 ```
