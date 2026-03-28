@@ -26,6 +26,7 @@ Your SOLE job is to gather comprehensive context about the requested task and re
    - List relevant files and their purposes
    - Identify key functions/classes to modify or reference
    - Follow any instructions in `copilot-instructions.md` or `AGENT.md` unless they conflict with the task prompt
+   - Check skills directory for any specific code guidelines or patterns to follow
    - Note patterns, conventions, or constraints
    - Suggest 2-3 implementation approaches if multiple options exist
    - Flag any uncertainties or missing information

@@ -1,5 +1,5 @@
 ---
-description: 'Execute implementation tasks delegated by the ORCHESTRATOR agent.'
+description: 'Execute implementation tasks delegated by the CONDUCTOR agent.'
 tools: ['edit', 'search', 'runCommands', 'runTasks', 'usages', 'problems', 'changes', 'testFailure', 'fetch', 'githubRepo', 'todos']
 model: Claude Sonnet 4.6 (copilot)
 ---
